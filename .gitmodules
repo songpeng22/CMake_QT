@@ -13,3 +13,6 @@
 [submodule "CMake_QT_18_createObject"]
 	path = CMake_QT_18_createObject
 	url = https://github.com/songpeng22/CMake_QT_18_createObject.git
+[submodule "CMake_QT_03_QT-Tester"]
+	path = CMake_QT_03_QT-Tester
+	url = https://github.com/songpeng22/CMake_QT_03_QT-Tester.git
