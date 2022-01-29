@@ -34,3 +34,6 @@
 [submodule "CMake_QT_07_Skinnable"]
 	path = CMake_QT_07_Skinnable
 	url = https://github.com/songpeng22/CMake_QT_07_Skinnable.git
+[submodule "CMake_QT_09_pass-parameters"]
+	path = CMake_QT_09_pass-parameters
+	url = https://github.com/songpeng22/CMake_QT_09_pass-parameters.git
