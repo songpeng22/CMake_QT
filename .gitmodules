@@ -16,3 +16,6 @@
 [submodule "CMake_QT_03_QT-Tester"]
 	path = CMake_QT_03_QT-Tester
 	url = https://github.com/songpeng22/CMake_QT_03_QT-Tester.git
+[submodule "CMake_QT_13_dual-screen"]
+	path = CMake_QT_13_dual-screen
+	url = https://github.com/songpeng22/CMake_QT_13_dual-screen.git
