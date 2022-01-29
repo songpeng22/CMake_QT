@@ -28,3 +28,6 @@
 [submodule "CMake_QT_04_Qml_CoWork_with_CPP"]
 	path = CMake_QT_04_Qml_CoWork_with_CPP
 	url = https://github.com/songpeng22/CMake_QT_04_Qml_CoWork_with_CPP.git
+[submodule "CMake_QT_06_Qml-Style"]
+	path = CMake_QT_06_Qml-Style
+	url = https://github.com/songpeng22/CMake_QT_06_Qml-Style.git
