@@ -31,3 +31,6 @@
 [submodule "CMake_QT_06_Qml-Style"]
 	path = CMake_QT_06_Qml-Style
 	url = https://github.com/songpeng22/CMake_QT_06_Qml-Style.git
+[submodule "CMake_QT_07_Skinnable"]
+	path = CMake_QT_07_Skinnable
+	url = https://github.com/songpeng22/CMake_QT_07_Skinnable.git
