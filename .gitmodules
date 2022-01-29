@@ -19,3 +19,9 @@
 [submodule "CMake_QT_13_dual-screen"]
 	path = CMake_QT_13_dual-screen
 	url = https://github.com/songpeng22/CMake_QT_13_dual-screen.git
+[submodule "CMake_QT_17_static_Font"]
+	path = CMake_QT_17_static_Font
+	url = https://github.com/songpeng22/CMake_QT_17_static_Font.git
+[submodule "CMake_QT_02_Qt-Standard"]
+	path = CMake_QT_02_Qt-Standard
+	url = https://github.com/songpeng22/CMake_QT_02_Qt-Standard.git
