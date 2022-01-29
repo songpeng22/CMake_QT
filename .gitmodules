@@ -37,3 +37,6 @@
 [submodule "CMake_QT_09_pass-parameters"]
 	path = CMake_QT_09_pass-parameters
 	url = https://github.com/songpeng22/CMake_QT_09_pass-parameters.git
+[submodule "CMake_QT_10_signal_and_event"]
+	path = CMake_QT_10_signal_and_event
+	url = https://github.com/songpeng22/CMake_QT_10_signal_and_event.git
