@@ -25,3 +25,6 @@
 [submodule "CMake_QT_02_Qt-Standard"]
 	path = CMake_QT_02_Qt-Standard
 	url = https://github.com/songpeng22/CMake_QT_02_Qt-Standard.git
+[submodule "CMake_QT_04_Qml_CoWork_with_CPP"]
+	path = CMake_QT_04_Qml_CoWork_with_CPP
+	url = https://github.com/songpeng22/CMake_QT_04_Qml_CoWork_with_CPP.git
