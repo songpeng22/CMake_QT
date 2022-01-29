@@ -4,3 +4,6 @@
 [submodule "CMake_QT_16_static_QML_Tester"]
 	path = CMake_QT_16_static_QML_Tester
 	url = https://github.com/songpeng22/CMake_QT_16_static_QML_Tester.git
+[submodule "CMake_QT_03_Qml-Standard"]
+	path = CMake_QT_03_Qml-Standard
+	url = https://github.com/songpeng22/CMake_QT_03_Qml-Standard.git
