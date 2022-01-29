@@ -10,3 +10,6 @@
 [submodule "CMake_QT_11_mt_static_Standard"]
 	path = CMake_QT_11_mt_static_Standard
 	url = https://github.com/songpeng22/CMake_QT_11_mt_static_Standard.git
+[submodule "CMake_QT_18_createObject"]
+	path = CMake_QT_18_createObject
+	url = https://github.com/songpeng22/CMake_QT_18_createObject.git
