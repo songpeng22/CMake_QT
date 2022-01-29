@@ -7,3 +7,6 @@
 [submodule "CMake_QT_03_Qml-Standard"]
 	path = CMake_QT_03_Qml-Standard
 	url = https://github.com/songpeng22/CMake_QT_03_Qml-Standard.git
+[submodule "CMake_QT_11_mt_static_Standard"]
+	path = CMake_QT_11_mt_static_Standard
+	url = https://github.com/songpeng22/CMake_QT_11_mt_static_Standard.git
