@@ -1,3 +1,6 @@
 [submodule "CMake_QT_19_singleton"]
 	path = CMake_QT_19_singleton
 	url = https://github.com/songpeng22/CMake_QT_19_singleton.git
+[submodule "CMake_QT_16_static_QML_Tester"]
+	path = CMake_QT_16_static_QML_Tester
+	url = https://github.com/songpeng22/CMake_QT_16_static_QML_Tester.git
