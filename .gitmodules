@@ -40,3 +40,9 @@
 [submodule "CMake_QT_10_signal_and_event"]
 	path = CMake_QT_10_signal_and_event
 	url = https://github.com/songpeng22/CMake_QT_10_signal_and_event.git
+[submodule "CMake_QT_14_Process_Thread"]
+	path = CMake_QT_14_Process_Thread
+	url = https://github.com/songpeng22/CMake_QT_14_Process_Thread.git
+[submodule "CMake_QT_15_stl_related"]
+	path = CMake_QT_15_stl_related
+	url = https://github.com/songpeng22/CMake_QT_15_stl_related.git
